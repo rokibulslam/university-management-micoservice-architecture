@@ -1,4 +1,4 @@
-# university-management-system - micoservice-architecture
+# University-Management-System ---> Micoservice-Architecture
 ### Development Mode
-### See Branch for details
+# See Branch for details
 # Branch Name Taken from Jira Sprint
